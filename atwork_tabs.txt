@@ -1,0 +1,10 @@
+http://alexminnaar.com/time-series-classification-and-clustering-with-python.html
+http://stats.stackexchange.com/questions/66976/how-to-cluster-time-series	
+https://en.wikipedia.org/wiki/Chow_test
+http://stats.stackexchange.com/questions/3331/is-it-possible-to-do-time-series-clustering-based-on-curve-shape
+http://stats.stackexchange.com/questions/2777/modelling-longitudinal-data-where-the-effect-of-time-varies-in-functional-form-b
+http://stats.stackexchange.com/questions/44564/two-level-hierarchical-model-using-time-series-cross-sectional-data
+http://andrewgelman.com/2007/11/28/clustered_stand/
+http://www.statisticssolutions.com/hierarchical-linear-modeling/
+https://pythonandr.com/2016/11/
+http://stackoverflow.com/questions/36254043/how-to-cluster-a-time-series-using-dbscan-python
