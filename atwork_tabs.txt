@@ -8,3 +8,10 @@ http://andrewgelman.com/2007/11/28/clustered_stand/
 http://www.statisticssolutions.com/hierarchical-linear-modeling/
 https://pythonandr.com/2016/11/
 http://stackoverflow.com/questions/36254043/how-to-cluster-a-time-series-using-dbscan-python
+https://www.quora.com/How-do-I-choose-value-of-epsilon-in-DBSCAN
+https://en.wikipedia.org/wiki/Silhouette_(clustering)
+http://stackoverflow.com/questions/2301290/which-data-clustering-algorithm-is-appropriate-to-detect-an-unknown-number-of-cl
+http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/TUZEL1/MeanShift.pdf
+https://en.wikipedia.org/wiki/Kernel_density_estimation
+http://nonconditional.com/2013/07/a-short-tutorial-on-kernel-density-estimation-kde/
+http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
