@@ -18,3 +18,11 @@ http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
 http://stackoverflow.com/questions/15736995/how-can-i-quickly-estimate-the-distance-between-two-latitude-longitude-points
 http://stackoverflow.com/questions/35227589/python-nearest-neighbour-coordinates
 http://stackoverflow.com/questions/9895873/convert-planar-x-y-to-lat-long
+https://docs.onemap.sg/#search
+http://stackoverflow.com/questions/18237479/dbscan-in-scikit-learn-of-python-save-the-cluster-points-in-an-array
+http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
+http://stats.stackexchange.com/questions/2499/what-is-a-kernel-in-plain-english
+http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
+https://en.wikipedia.org/wiki/DBSCAN
+https://www.homeworkhelponline.net/blog/math/tutorial-kde
+https://www.homeworkhelponline.net/blog/programming/predict-pdf-generate-data
