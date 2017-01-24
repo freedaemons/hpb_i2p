@@ -15,3 +15,6 @@ http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/TUZEL1/MeanShift.pdf
 https://en.wikipedia.org/wiki/Kernel_density_estimation
 http://nonconditional.com/2013/07/a-short-tutorial-on-kernel-density-estimation-kde/
 http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
+http://stackoverflow.com/questions/15736995/how-can-i-quickly-estimate-the-distance-between-two-latitude-longitude-points
+http://stackoverflow.com/questions/35227589/python-nearest-neighbour-coordinates
+http://stackoverflow.com/questions/9895873/convert-planar-x-y-to-lat-long
