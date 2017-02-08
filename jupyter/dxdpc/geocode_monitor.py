@@ -3,8 +3,6 @@ import numpy as np
 import os
 import re
 import requests
-import matplotlib.pyplot as plt
-%matplotlib inline 
 
 pc_file = os.path.join(os.pardir,"data","postcodes_uniq.csv")
 pcdf = pd.read_csv(pc_file, header=None, names={'postalcode'})
@@ -35,8 +33,14 @@ def onemap_geocode(postalcode):
         lat = response_json['results'][0]['LATITUDE']
         lon = response_json['results'][0]['LONGITUDE']
     except IndexError:
+        print("unknown postal code")
         lat = ''
         lon = ''
+    except:
+        print("unknown error")
+        lat = ''
+        lon = ''
+        pass
     print('response for ' + postalcode + ': ' + lat + ", " + lon)
     return lat + ', ' + lon
 
