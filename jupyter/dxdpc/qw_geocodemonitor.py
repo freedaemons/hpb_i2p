@@ -31,16 +31,17 @@ def onemap_geocode(postalcode):
 
 geocode_counter = 0
 
+notyet_geocoded = pcdf[~pcdf['postalcode'].isin(pc_latlon_df['postalcode'])]
+
 with open(pc_latlon_file, 'a', newline='') as outfile:
     writer = csv.writer(outfile)
-    for postalcode in pcdf['postalcode']:
-        if postalcode not in pc_latlon_df['postalcode']:
+    for postalcode in notyet_geocoded['postalcode']:
+        latlon = onemap_geocode(postalcode)
+        lat = latlon.split(',')[0]
+        lon = latlon.split(',')[1]
 
-            latlon = onemap_geocode(postalcode)
-            lat = latlon.split(',')[0]
-            lon = latlon.split(',')[1]
-
-            newrow = [postalcode, lat, lon]
-            writer.writerow(newrow)
-            geocode_counter += 1
-            print('#' + str(geocode_counter) + ": " + str(newrow))
+        newrow = [postalcode, lat, lon]
+        writer.writerow(newrow)
+        geocode_counter += 1
+        print('#' + str(geocode_counter) + ": " + str(newrow))
+    print("All done!")
