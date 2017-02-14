@@ -28,3 +28,4 @@ https://www.homeworkhelponline.net/blog/math/tutorial-kde
 https://www.homeworkhelponline.net/blog/programming/predict-pdf-generate-data
 http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.WKKHdxt97IU
 http://stackoverflow.com/questions/22787209/how-to-have-clusters-of-stacked-bars-with-python-pandas
+http://michelleful.github.io/code-blog/
