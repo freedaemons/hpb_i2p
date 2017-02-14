@@ -26,3 +26,5 @@ http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
 https://en.wikipedia.org/wiki/DBSCAN
 https://www.homeworkhelponline.net/blog/math/tutorial-kde
 https://www.homeworkhelponline.net/blog/programming/predict-pdf-generate-data
+http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.WKKHdxt97IU
+http://stackoverflow.com/questions/22787209/how-to-have-clusters-of-stacked-bars-with-python-pandas
