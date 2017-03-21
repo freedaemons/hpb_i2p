@@ -32,3 +32,10 @@ http://michelleful.github.io/code-blog/
 http://www.nltk.org/book/ch06.html
 www.mdpi.com/1996-1073/6/2/579/pdf
 http://fromdatawithlove.thegovans.us/2013/05/clustering-using-scikit-learn.html
+https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/
+http://stackoverflow.com/questions/38151615/specific-cross-validation-with-random-forest
+http://stats.stackexchange.com/questions/125756/classification-score-for-random-forest
+http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/
+http://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix-in-python
+http://stackoverflow.com/questions/14391959/heatmap-in-matplotlib-with-pcolor
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
